@@ -5,7 +5,7 @@ Python好きのエンジニアです。
 応用情報技術者試験の勉強中。 GitHubを育てようと思い立ったところ。
 
 
-## 🛠 スキル
+## Skills
 - Python / Django /
 - PHP / Laravel / WordPress
 - HTML / CSS / JavaScript
