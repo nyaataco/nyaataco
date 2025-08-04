@@ -15,6 +15,8 @@ Python好きのエンジニアです。
 
 ## My GitHub Stats
 
+今から伸ばしていきまっす🌱 
+
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=nyaataco)
 
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=nyaataco&layout=compact)
