@@ -1,6 +1,6 @@
 nyaatacoの由来はOctCatから。 
  
-Python好きのエンジニアです。 
+Pythonが好きです。 
 
 応用情報技術者試験の勉強中。 GitHubを育てようと思い立ったところ。
 
